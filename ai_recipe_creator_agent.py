@@ -1,7 +1,7 @@
 import cohere
 
 # Initialize Cohere client with your API key
-co = cohere.Client('BYK0dv9byAIxxv88wCa4wHJ4CxYtDDhXp0tnE8Ep')  # Replace with your actual key
+co = cohere.Client('Give api key here')  # Replace with your actual key
 
 # Define your message
 # message = "Give me a recipe using chicken, garlic, and tomatoes."
